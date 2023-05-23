@@ -1,0 +1,122 @@
+[
+  {
+    "hop_number": "1",
+    "ip_address": "192.168.4.1",
+    "rtt": "(192.168.4.1)"
+  },
+  {
+    "hop_number": "2",
+    "ip_address": "172.24.139.3",
+    "rtt": "(172.24.139.3)"
+  },
+  {
+    "hop_number": "172.24.139.2",
+    "ip_address": "(172.24.139.2)",
+    "rtt": "31.254"
+  },
+  {
+    "hop_number": "172.24.139.3",
+    "ip_address": "(172.24.139.3)",
+    "rtt": "16.597"
+  },
+  {
+    "hop_number": "3",
+    "ip_address": "68.86.155.29",
+    "rtt": "(68.86.155.29)"
+  },
+  {
+    "hop_number": "68.86.155.105",
+    "ip_address": "(68.86.155.105)",
+    "rtt": "16.908"
+  },
+  {
+    "hop_number": "68.86.155.29",
+    "ip_address": "(68.86.155.29)",
+    "rtt": "15.912"
+  },
+  {
+    "hop_number": "4",
+    "ip_address": "96.216.136.241",
+    "rtt": "(96.216.136.241)"
+  },
+  {
+    "hop_number": "68.86.210.190",
+    "ip_address": "(68.86.210.190)",
+    "rtt": "17.671"
+  },
+  {
+    "hop_number": "96.216.136.241",
+    "ip_address": "(96.216.136.241)",
+    "rtt": "22.796"
+  },
+  {
+    "hop_number": "5",
+    "ip_address": "96.216.136.241",
+    "rtt": "(96.216.136.241)"
+  },
+  {
+    "hop_number": "96.216.136.237",
+    "ip_address": "(96.216.136.237)",
+    "rtt": "15.066"
+  },
+  {
+    "hop_number": "96.216.136.241",
+    "ip_address": "(96.216.136.241)",
+    "rtt": "27.839"
+  },
+  {
+    "hop_number": "6",
+    "ip_address": "be-300-ar03.audubon.nj.panjde.comcast.net",
+    "rtt": "(68.85.62.213)"
+  },
+  {
+    "hop_number": "96.216.136.237",
+    "ip_address": "(96.216.136.237)",
+    "rtt": "20.175"
+  },
+  {
+    "hop_number": "be-300-ar03.audubon.nj.panjde.comcast.net",
+    "ip_address": "(68.85.62.213)",
+    "rtt": "19.092"
+  },
+  {
+    "hop_number": "7",
+    "ip_address": "be-300-ar03.audubon.nj.panjde.comcast.net",
+    "rtt": "(68.85.62.213)"
+  },
+  {
+    "hop_number": "be-102-ar03.plainfield.nj.panjde.comcast.net",
+    "ip_address": "(96.108.49.133)",
+    "rtt": "21.747"
+  },
+  {
+    "hop_number": "be-300-ar03.audubon.nj.panjde.comcast.net",
+    "ip_address": "(68.85.62.213)",
+    "rtt": "17.819"
+  },
+  {
+    "hop_number": "8",
+    "ip_address": "69.241.71.14",
+    "rtt": "(69.241.71.14)"
+  },
+  {
+    "hop_number": "be-100-ar03.plainfield.nj.panjde.comcast.net",
+    "ip_address": "(68.85.35.21)",
+    "rtt": "22.679"
+  },
+  {
+    "hop_number": "69.241.71.14",
+    "ip_address": "(69.241.71.14)",
+    "rtt": "20.898"
+  },
+  {
+    "hop_number": "9",
+    "ip_address": "69.241.68.158",
+    "rtt": "(69.241.68.158)"
+  },
+  {
+    "hop_number": "10",
+    "ip_address": "dns.google",
+    "rtt": "(8.8.8.8)"
+  }
+]
