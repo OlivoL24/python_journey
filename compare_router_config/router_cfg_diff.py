@@ -1,7 +1,7 @@
 import difflib
 
 def compare_router_configs(config1, config2):
-  """Compares two router configurations and returns a list of differences.
+  """Compares two router configurations and returns a list of differences
 
   Args:
     config1: The first router configuration.
